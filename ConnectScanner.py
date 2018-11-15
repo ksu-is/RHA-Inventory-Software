@@ -52,3 +52,21 @@ while not done:
 					ss += hid[ int(ord(c)) ]
 			
 print ss
+
+
+#Correction 
+
+# Added from RaspberryPi forum
+
+import sys
+
+fp = open('/dev/hidraw0', 'rb')
+tStr = ''
+while True:
+buffer = fp.read(8)
+for c in buffer:
+if ord(c) > 0:
+#print ord(c)
+tStr = tStr + c
+
+print tStr + "\n"
