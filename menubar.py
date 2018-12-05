@@ -1,3 +1,4 @@
+#menu bar 
 menubar = Menu(root)
 filemenu = Menu(menubar, tearoff=0)
 filemenu.add_command(label="Account", command=ShowLoginForm)
