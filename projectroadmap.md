@@ -10,5 +10,5 @@ Coding and Development Tasks Checklist:
 8. Create code for data connection from scan gun to raspberry pi- done JP
 10. Test database queries inside of raspberry pi- done NL & JP
 11. Test created inventory software with inventory data from raspberry pi- done JP & NL
-12. Initiate inventory process- done JP & NL
+12. Initiate inventory process- done NL & JP
 13. Presentation- done JP
