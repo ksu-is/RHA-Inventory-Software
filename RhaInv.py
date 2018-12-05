@@ -88,6 +88,7 @@ def LoginForm():
 def Home():
     global Home
     Home = Tk()
+    #home title differs from login screen title
     Home.title("RHA Inventory System/Home")
     width = 1024
     height = 720
