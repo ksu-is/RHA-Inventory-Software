@@ -1,6 +1,6 @@
 Coding and Development Tasks Checklist: 
-1. Import code to github-
-2. Prepare raspberry pi- 
+1. Import code to github-done
+2. Prepare raspberry pi- done
 3. Link scanners to raspberry pi- 
 4. Identify operating software inside of scanners- 
 5. Create flowchart for inventory process- 
