@@ -1,3 +1,4 @@
+#database connection from sqlite
 def Database():
     global conn, cursor
     conn = sqlite3.connect("pythontut.db")
