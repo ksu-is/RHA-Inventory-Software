@@ -1,3 +1,4 @@
+#tkinter import
 from tkinter import *
 import tkinter.messagebox as tkMessageBox
 import sqlite3
@@ -25,7 +26,7 @@ PRODUCT_QTY = IntVar()
 SEARCH = StringVar()
 
 #========================================METHODS==========================================
-
+#database connection from sqlite
 def Database():
     global conn, cursor
     conn = sqlite3.connect("RhaInv.db")
