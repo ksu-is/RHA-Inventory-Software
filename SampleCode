@@ -1,4 +1,4 @@
-#sample code
+# sample code
 
 from tkinter import *
 import tkinter.messagebox as tkMessageBox
@@ -26,6 +26,8 @@ root.config(menu=menubar)
 Title = Frame(root, bd=1, relief=SOLID)
 Title.pack(pady=10)
 #========================================LABEL WIDGET=====================================
+# rename from Simple Inventory System to RHA Inventory System
+
 lbl_display = Label(Title, text="Simple Inventory System", font=('arial', 45))
 lbl_display.pack()
 #========================================METHODS==========================================
