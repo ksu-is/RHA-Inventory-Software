@@ -14,4 +14,4 @@ Coding and Development Tasks Checklist:
 13. Test created inventory software with inventory data from raspberry pi- done JP & NL
 14. Initiate inventory process- done NL & JP
 15. Create Powerpoint Slide- done NL
-16. Presentation- done JP
+16. Presentation- done NL & JP
